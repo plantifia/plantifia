@@ -1,0 +1,5 @@
+coleur : #40A48D blan : #FDFEFE noir : #010101
+
+police d'écriture : font-family: 'Roboto Condensed', sans-serif;
+
+lient du site plantifia : https://00000500000.github.io/plantifia/
